@@ -1,0 +1,26 @@
+{
+  "name": "thread-js",
+  "version": "1.0.0",
+  "description": "A simple JavaScript like thread using setInterval on browser and Node thread.",
+  "author": "Obaro I. Johnson",
+  "license": "MIT",
+  "main": "./src/index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo testing...",
+    "deploy": "echo deploying to npm and git "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimobama/thread.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jimobama/thread.js/issues"
+  },
+  "homepage": "https://github.com/jimobama/thread.js#readme",
+  "devDependencies": {
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {}
+}
